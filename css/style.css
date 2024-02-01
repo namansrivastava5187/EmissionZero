@@ -5,6 +5,12 @@ body {
   background-color: #ffffff;
   overflow-x: hidden;
 }
+.logofirst {
+  position: relative;
+  height: 10vh;
+  width: 10vh;
+  background-image: url(logo.png);
+}
 .parent {
   display: flex;
   flex-direction: row;
