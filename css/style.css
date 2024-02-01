@@ -29,6 +29,12 @@ body {
   
 }
 
+.para {
+  height: fit-content;
+  width: fit-content;
+  text-align: center;
+}
+
 .logofooter {
   background-image: url(logo.png);
   background-size: cover;
